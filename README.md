@@ -3,8 +3,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" height="75%" width="100%"alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - From receiving a ticket to resolving it </h1>
-This tutorial outlines the lifecycle of a ticket from beginning to end within the open-source help desk ticketing system osTicket. This will be a demonstration of a user submitting a ticket through the support site, an agent taking the ticket and working on it.<br />
+<h1>osTicket - How to work on a ticket and resolve it </h1>
+This tutorial outlines the lifecycle of a ticket from beginning to end within the open-source help desk ticketing system osTicket. This will be a demonstration of a user submitting a ticket through the support site, and an agent taking the ticket and working on it.<br />
 
 
 <!-- <h2>Video Demonstration</h2>
